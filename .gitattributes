@@ -1,0 +1,2 @@
+noted[[:space:]]Setup[[:space:]]1.0.0.exe filter=lfs diff=lfs merge=lfs -text
+noted-1.0.0.dmg filter=lfs diff=lfs merge=lfs -text
