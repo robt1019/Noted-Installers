@@ -1,7 +1,3 @@
-# Noted-Installers
-
-This contains installers for the Noated desktop client.
-
-The Windows one is not code signed yet, so will probably make your computer have a fit if you try and install it. I'm working on that...
-
-Install at your own risk!
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e9f51e2a3c33b00e57ab61a354266c5583ff0f1d38019172ba642df210fb5a9
+size 241
